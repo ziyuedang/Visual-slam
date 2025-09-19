@@ -15,6 +15,6 @@ using the KITTI Odometry dataset.
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/<your-username>/visual-slam-kitti.git
-cd visual-slam-kitti
+git clone https://github.com/<your-username>/visual-slam.git
+cd visual-slam
 # create environment and install dependencies
